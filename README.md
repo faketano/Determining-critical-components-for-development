@@ -1,0 +1,3 @@
+# Determining critical components for development
+Abstract
+On the first part of this paper we’ll be using Unsupervised Learning techniques to cluster countries according to their intrinsic characteristics and we’ll try to find out whether the iconic phrase once said by economist and Nobel Laureate Simon Kuznets’ holds or not. The analysis will be enriched with thoughts of economists Acemoglu and Robinson. On the second part, once determined the ideal clusters we will be using these results and we’ll double check them using Supervised Learning techniques. Finally, we’ll be discussing what seems to be the most important components for development and what should be taken into consideration when doing economic policy.

@@ -1,0 +1,181 @@
+Country,Natural capital,Resource Intensity,Social capital,Intellectual capital,Governance 
+Sweden,60,58,62,68,58
+Finland,60,51,62,64,66
+Switzerland,55,62,60,63,62
+Denmark,53,56,60,67,64
+Norway,63,49,64,64,60
+Iceland,65,43,64,63,64
+Ireland,51,58,56,51,72
+France,54,57,55,59,58
+Austria,49,50,61,59,64
+Germany,46,52,56,63,65
+Estonia,48,44,60,55,73
+Liechtenstein,48,54,55,58,64
+Japan,41,48,58,65,65
+Croatia,61,47,55,49,64
+New Zealand,60,47,56,47,64
+Portugal,50,49,59,56,61
+United Kingdom,39,61,51,67,56
+Slovenia,48,42,61,58,64
+Luxembourg,52,50,60,46,63
+Netherlands,41,50,58,60,60
+South Korea,37,34,60,78,61
+Latvia,58,48,51,48,63
+Slovakia,51,45,56,53,61
+Belgium,37,48,61,59,60
+Lithuania,53,50,53,50,59
+Czech Republic,41,42,57,56,70
+Spain,49,50,56,45,64
+Costa Rica,53,59,50,45,55
+Romania,55,54,54,39,61
+USA,55,45,43,65,53
+Malta,45,48,54,49,63
+Italy,44,51,55,51,58
+China,38,36,54,71,58
+Uruguay,61,61,45,36,54
+Poland,46,38,54,56,62
+Hungary,46,47,46,56,59
+Canada,57,40,52,56,48
+Chile,58,45,48,47,54
+Peru,62,50,46,40,53
+Albania,59,49,48,41,53
+Serbia,58,31,53,45,61
+Greece,45,45,51,50,58
+Mauritius,46,47,47,49,59
+Bulgaria,52,38,49,47,62
+Paraguay,68,49,42,33,55
+Bhutan,61,39,49,42,57
+Australia,51,43,54,44,55
+Singapore,29,34,58,69,56
+Bolivia,68,46,44,43,46
+Russia,58,28,44,60,57
+Ecuador,58,48,48,41,51
+Brazil,64,51,38,53,38
+Panama,56,55,44,34,55
+Colombia,69,51,38,35,51
+Argentina,58,48,46,37,54
+Georgia,56,33,48,44,62
+Belarus,60,31,53,41,57
+Israel,35,39,48,62,57
+Sri Lanka,41,51,49,40,60
+Belize,60,60,37,40,41
+Venezuela,67,48,36,50,37
+Cyprus,39,37,55,49,58
+Armenia,41,45,53,37,61
+Solomon Islands,53,59,42,36,47
+North Macedonia,48,38,50,43,57
+Ukraine,46,45,44,49,53
+Malaysia,53,32,49,52,51
+Bosnia and Herzegovina,57,29,54,36,59
+Timor-Leste,40,51,54,40,50
+Fiji,54,50,38,39,54
+Ghana,52,59,40,30,54
+Montenegro,50,41,49,42,52
+Samoa,54,54,37,39,50
+Brunei,51,30,50,48,56
+Indonesia,44,41,46,42,59
+Kyrgistan,47,37,51,43,53
+Moldova,40,40,51,38,62
+Tonga,41,54,44,40,50
+Turkey,41,39,43,47,59
+Kazakhstan,42,28,50,48,62
+Nepal,36,48,47,39,59
+Suriname,62,39,42,39,45
+Cote d'Ivoire,52,56,35,28,56
+Uzbekistan,34,34,51,44,64
+Dominica,45,51,39,43,49
+Maldives,32,51,60,38,46
+El Salvador,39,62,45,25,54
+Thailand,40,40,46,51,49
+Mexico,43,43,40,45,54
+Cameroon,57,54,40,31,43
+Guyana,57,43,39,38,47
+Kenya,38,62,38,37,49
+Burma,58,45,39,31,50
+Kiribati,33,60,37,40,52
+Dominican Republic,45,46,41,35,54
+United Arab Emirates,33,27,56,44,59
+Sierra Leone,50,55,40,33,41
+Ethiopia,40,61,41,24,52
+Laos,69,38,39,27,44
+Cuba,44,49,41,36,46
+Vanuatu,41,55,36,35,49
+Namibia,47,51,36,40,42
+Morocco,41,49,34,40,52
+Tajikistan,42,36,48,39,50
+Cambodia,54,42,39,27,54
+Botswana,40,41,36,43,54
+Gabon,53,50,39,28,45
+Nicaragua,45,51,42,32,43
+Senegal,36,47,44,32,55
+Grenada,32,48,42,41,51
+Iran,42,23,41,53,54
+Sao Tome and Principe,40,52,43,36,42
+Bangladesh,38,53,42,22,57
+Saudi Arabia,37,26,50,44,55
+Vietnam,40,28,45,45,53
+Micronesia,36,54,33,37,51
+Oman,44,22,48,46,50
+Philippines,34,47,42,33,55
+Democratic Republic of Congo,59,61,33,17,40
+Tanzania,52,52,36,20,48
+Seychelles,29,30,49,44,57
+Guinea,46,54,38,27,43
+Mongolia,39,26,49,38,56
+Eswatini,40,47,33,45,42
+Burkina Faso,31,54,44,29,49
+Jamaica,39,46,41,36,46
+Equatorial Guinea,59,51,38,26,33
+Tunisia,29,36,44,49,50
+Papua New Guinea,60,55,38,17,36
+St. Kitts and Nevis,34,37,41,35,59
+Egypt,37,40,31,40,57
+Jordan,34,45,43,32,52
+Malawi,41,64,41,21,38
+Angola,59,59,34,18,36
+India,34,46,39,37,48
+Azerbaijan,35,33,46,41,49
+Niger,44,55,44,19,42
+Rwanda,33,60,39,26,44
+Kuwait,32,25,52,36,56
+Honduras,43,49,34,30,43
+Togo,36,53,36,30,45
+Republic of Congo,57,46,33,31,33
+Turkmenistan,33,30,39,43,53
+Algeria,37,30,42,40,49
+Nigeria,39,49,37,23,50
+Qatar,33,25,52,37,50
+South Africa,49,33,31,43,40
+Afghanistan,39,54,31,30,43
+Lesotho,40,46,33,39,39
+Benin,38,42,33,30,53
+Guatemala,38,54,33,25,46
+Mali,43,54,41,17,42
+Guinea-Bissau,46,57,34,19,40
+Madagascar,51,55,32,18,39
+Zambia,49,43,35,22,45
+Zimbabwe,36,52,34,32,39
+Trinidad and Tobago,39,27,43,35,50
+Gambia,34,51,38,20,47
+Comoros,30,54,34,30,44
+Mauritania,33,52,36,26,42
+Bahamas,34,35,37,29,54
+Uganda,39,56,37,13,43
+West Bank and Gaza,22,43,37,40,45
+Djibouti,31,55,33,28,40
+Central African Republic,51,57,26,15,39
+Bahrain,28,26,43,39,50
+Liberia,44,48,38,23,33
+Mozambique,49,41,37,19,37
+Haiti,30,50,34,27,42
+Pakistan,28,42,38,27,48
+Chad,43,55,35,17,34
+Sudan,43,43,32,26,37
+Yemen,31,61,30,28,30
+Burundi,29,59,35,20,38
+Lebanon,26,33,46,32,41
+Syria,33,42,34,31,37
+Libya,41,26,42,32,36
+South Sudan,40,53,35,16,31
+Eritrea,35,54,33,16,35
+Somalia,23,57,32,20,32
